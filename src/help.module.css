@@ -1,0 +1,12 @@
+.root {
+  color: rgb(153 27 27);
+  background-color: rgb(254, 242, 242);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.title {
+  font-weight: 500;
+}
